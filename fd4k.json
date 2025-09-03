@@ -1,0 +1,1037 @@
+{
+  "roles": [
+    {
+      "name": "☯",
+      "color": 13172739,
+      "hoist": true,
+      "permissions": "1827388324839423",
+      "mentionable": true
+    },
+    {
+      "name": "Loritta",
+      "color": 0,
+      "hoist": false,
+      "permissions": "2080374975",
+      "mentionable": false
+    },
+    {
+      "name": "信",
+      "color": 921102,
+      "hoist": true,
+      "permissions": "8",
+      "mentionable": true
+    },
+    {
+      "name": "Zany",
+      "color": 0,
+      "hoist": false,
+      "permissions": "1644935249119",
+      "mentionable": false
+    },
+    {
+      "name": "Jockie Music",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "Jockie Music (2)",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "4K",
+      "color": 3550892,
+      "hoist": true,
+      "permissions": "1721807559716807",
+      "mentionable": true
+    },
+    {
+      "name": "Xenon",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "novo cargo",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "FD4K ⋆",
+      "color": 16777215,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": true
+    },
+    {
+      "name": ".fmbot",
+      "color": 0,
+      "hoist": false,
+      "permissions": "275415092288",
+      "mentionable": false
+    },
+    {
+      "name": "Make it a Quote",
+      "color": 0,
+      "hoist": false,
+      "permissions": "274878024704",
+      "mentionable": false
+    },
+    {
+      "name": "bot",
+      "color": 0,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": true
+    },
+    {
+      "name": "bot mod",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "Quark Logger",
+      "color": 0,
+      "hoist": false,
+      "permissions": "1374926785710",
+      "mentionable": false
+    },
+    {
+      "name": "nMarkov",
+      "color": 0,
+      "hoist": false,
+      "permissions": "137439431744",
+      "mentionable": false
+    },
+    {
+      "name": "Boss™",
+      "color": 0,
+      "hoist": false,
+      "permissions": "1644935249119",
+      "mentionable": false
+    },
+    {
+      "name": "Ticket King",
+      "color": 0,
+      "hoist": false,
+      "permissions": "534992383065",
+      "mentionable": false
+    },
+    {
+      "name": ".tela",
+      "color": 0,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": ".img",
+      "color": 0,
+      "hoist": false,
+      "permissions": "50176",
+      "mentionable": false
+    },
+    {
+      "name": ".mov",
+      "color": 0,
+      "hoist": false,
+      "permissions": "4398079016960",
+      "mentionable": false
+    },
+    {
+      "name": "zk ゛",
+      "color": 14428,
+      "hoist": true,
+      "permissions": "1720707884371521",
+      "mentionable": true
+    },
+    {
+      "name": "soiler ``",
+      "color": 16741823,
+      "hoist": true,
+      "permissions": "576700412134913",
+      "mentionable": true
+    },
+    {
+      "name": "boosters",
+      "color": 8070275,
+      "hoist": true,
+      "permissions": "2222085186637377",
+      "mentionable": true
+    },
+    {
+      "name": "FD4K",
+      "color": 0,
+      "hoist": false,
+      "permissions": "571749537169468",
+      "mentionable": false
+    }
+  ],
+  "channels": [
+    {
+      "name": "nata",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "1024",
+          "deny": "1048576",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1411702298425688075",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412185037272649778",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "resenha",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 6,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "bg e ni",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・boost",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・sms",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "2048",
+          "deny": "1126829767311360",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "32768",
+          "deny": "16384",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "・suporte",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・mural",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "2048",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1411702298425688075",
+          "allow": "2048",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412185037272649778",
+          "allow": "2048",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "duo",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 2,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "geral",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 99,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・rules",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・bye",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "the 5",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 5,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "sub",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 8,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・avs",
+      "type": 5,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "logs-lori",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・cmd",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "551903297536",
+          "deny": "1126002986108928",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "main",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 12,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "logs-quack",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "logs-tickets",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1051648",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "couple",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 2,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "trio",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 3,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "logs-boos",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "logs-ban",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "special",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 4,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "333",
+      "type": 2,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 63688,
+      "userLimit": 3,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "16826880",
+          "type": 0
+        },
+        {
+          "id": "1412205163036409958",
+          "allow": "512",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412206033954410557",
+          "allow": "16777216",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1412205447053574205",
+          "allow": "49152",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "⤷hi",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "・partner",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "staff",
+      "type": 0,
+      "parent": "么",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1024",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "么",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1411421991553990829",
+          "allow": "0",
+          "deny": "1049600",
+          "type": 0
+        },
+        {
+          "id": "1412186690335801425",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "roles": [
+    {
+      "name": "471",
+      "color": 2834,
+      "hoist": true,
+      "permissions": "4360663115759615",
+      "mentionable": false
+    },
+    {
+      "name": "Loritta",
+      "color": 0,
+      "hoist": false,
+      "permissions": "2080374975",
+      "mentionable": false
+    },
+    {
+      "name": "Jockie Music",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "DISBOARD.org",
+      "color": 0,
+      "hoist": false,
+      "permissions": "19481",
+      "mentionable": false
+    },
+    {
+      "name": "Server Booster",
+      "color": 16023551,
+      "hoist": false,
+      "permissions": "1799872721571393",
+      "mentionable": false
+    },
+    {
+      "name": "471 music",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "/tela",
+      "color": 3066993,
+      "hoist": false,
+      "permissions": "1536",
+      "mentionable": false
+    },
+    {
+      "name": "/cam",
+      "color": 15105570,
+      "hoist": false,
+      "permissions": "1536",
+      "mentionable": false
+    },
+    {
+      "name": "/pass",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "23",
+      "color": 0,
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "instinto inferior macaques senzaludo",
+      "color": 16711913,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "deus based",
+      "color": 15526551,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "/img",
+      "color": 16777215,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    }
+  ],
+  "channels": [
+    {
+      "name": "rules",
+      "type": 0,
+      "parent": "f1n",
+      "topic": "Regras do servidor",
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "65536",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "adm-chat",
+      "type": 0,
+      "parent": "indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408780389727604838",
+          "allow": "1024",
+          "deny": "2048",
+          "type": 1
+        },
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1403906056848937023",
+          "allow": "1024",
+          "deny": "0",
+          "type": 1
+        },
+        {
+          "id": "1402433752411541596",
+          "allow": "1024",
+          "deny": "0",
+          "type": 1
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "her",
+      "type": 0,
+      "parent": "indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1402433752411541596",
+          "allow": "1024",
+          "deny": "0",
+          "type": 1
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "him",
+      "type": 0,
+      "parent": "indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "afk Zzz",
+      "type": 2,
+      "parent": "Indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64250,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "brie e noah",
+      "type": 2,
+      "parent": "Indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64250,
+      "userLimit": 2,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "1082368",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": ".",
+      "type": 2,
+      "parent": "Indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "f1n",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "url",
+      "type": 0,
+      "parent": "f1n",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "471",
+      "type": 2,
+      "parent": "471",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "1082368",
+          "type": 0
+        },
+        {
+          "id": "1408780389727604838",
+          "allow": "1049600",
+          "deny": "0",
+          "type": 1
+        },
+        {
+          "id": "1411746351447801876",
+          "allow": "1024",
+          "deny": "1048576",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "471",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "indefinido",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "Indefinido",
+      "type": 4,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "33792",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "bump",
+      "type": 0,
+      "parent": "f1n",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "0",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "verifique-se",
+      "type": 0,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "3072",
+          "deny": "32768",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "2048",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "orkut",
+      "type": 0,
+      "parent": "indefinido",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": [
+        {
+          "id": "1408670750478434306",
+          "allow": "0",
+          "deny": "35840",
+          "type": 0
+        },
+        {
+          "id": "1411873491057381618",
+          "allow": "34816",
+          "deny": "0",
+          "type": 0
+        },
+        {
+          "id": "1411681074462982276",
+          "allow": "1024",
+          "deny": "1125902054326272",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "insta",
+      "type": 0,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permissionOverwrites": []
+    }
+  ]
+}

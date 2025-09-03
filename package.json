@@ -1,15 +1,23 @@
 {
-  "name": "nodejs",
+  "name": "4k",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx src/register.ts",
+    "register": "tsx src/register-commands.ts",
+    "23": "tsx src/index.ts",
+    "start-all": "concurrently \"npm run register\" \"npm run dev\" \"npm run 23\"",
+    "start": "npm run start-all"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "concurrently": "^9.2.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
   }
 }
